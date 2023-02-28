@@ -1,0 +1,24 @@
+
+.App{
+    margin: 10px;
+}
+.searchHeaderApp{
+   padding: 10px;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+}
+
+.searchHeaderForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.imageList{
+    columns: 250px 5;
+    column-gap: 10px;
+}
+
+.image{
+    width: 100%;
+    margin-bottom: 10px;
+}
